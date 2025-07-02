@@ -44,7 +44,7 @@ Analyzed 3-month transaction data from a retail platform. The data was transform
 **Technology**: MS SQL Server, Power BI (DAX, Power Query).
 
 **Results**:  
-Created 4 actionable customer segments that revealed clear behavioral patterns. Insights were used to recommend prioritized engagement strategies, such as retention focus for General and Secondary customers, and upselling for Potential customers. The Power BI dashboard allowed dynamic filtering by segment, behavior, and time window.
+Created 4 actionable customer segments that revealed clear behavioral patterns. Insights were used to recommend prioritized engagement strategies, such as retention focus for General and Secondary customers, and upselling for Potential customers.
 
 🔗 [View Project](https://github.com/ntmh12/customer-segmentation)
 
