@@ -5,7 +5,7 @@ Welcome to my Portfolio! I'm a Business Intelligence Analyst with a background i
 
 During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in data management, and statistical analysis, which I believe will be valuable assets in my role.
 
-In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
+In my free time, I enjoy exploring new BI tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 
 My CV in [PDF](https://github.com/ntmh12/portfolio-bi/blob/main/Nguyen%20Thi%20Minh%20Huong%20-%20CV.pdf).
 
