@@ -61,7 +61,7 @@ Processed and analyzed 885k customer comments extracted from MongoDB. The data i
 **Technology**: Python (Pandas, Torch, Transformers), PhoBERT, MongoDB, Power BI.
 
 **Results**:  
-The analysis showed that content with niche themes received more positive reactions, while sports and event-related content had higher polarity (more extreme sentiment). Results helped stakeholders tailor content strategies per category and platform. Batch processing was implemented to optimize runtime for nearly 900K entries.
+The analysis showed that content with niche themes received more positive reactions, while sports and event-related content had higher polarity (more extreme sentiment). Results helped stakeholders tailor content strategies per category and platform.
 
 🔗 [View Project](https://github.com/ntmh12/sentiment-analysis)
 
