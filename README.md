@@ -16,12 +16,12 @@ This is a repository to showcase skills, share projects and track my progress in
 ## 📚 Table of Contents
 
 - [About](#-about)  
-- [Portfolio Projects](#portfolio-projects)  
-  - [Customer Segmentation with RFM Analysis](#customer-segmentation-with-rfm-analysis)  
-  - [Sentiment Analysis on Vietnamese Customer Feedback](#sentiment-analysis-on-vietnamese-customer-feedback)  
-- [Education](#education)  
-- [Certificates](#certificates)  
-- [Contact](#contact)
+- [Portfolio Projects](#-portfolio-projects)  
+  - [Customer Segmentation with RFM Analysis](#-customer-segmentation-with-rfm-analysis)  
+  - [Sentiment Analysis on Vietnamese Customer Feedback](#-sentiment-analysis-on-vietnamese-customer-feedback)  
+- [Education](#-education)  
+- [Certificates](#-certificates)  
+- [Contact](#-contact)
 
 ---
 
