@@ -7,7 +7,7 @@ During my studies, I honed my ability to work with complex data and developed a 
 
 In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 
-My CV in [PDF](https://github.com/ntmh12/portfolio-bi/raw/main/Nguyen%20Thi%20Minh%20Huong%20-%20CV.pdf).
+My CV in [PDF](https://github.com/ntmh12/portfolio-bi/blob/main/Nguyen%20Thi%20Minh%20Huong%20-%20CV.pdf).
 
 This is a repository to showcase skills, share projects and track my progress in Business Intelligence.
 
