@@ -1,7 +1,7 @@
 
 # 👩‍💻 Nguyen Thi Minh Huong
 
-Welcome to my Business Intelligence Portfolio! I'm a Business Intelligence with a background in economics, and hands-on experience in customer analytics, sentiment analysis, ETL/ELT, and dashboard reporting using tools like Python, SQL, and Power BI.
+Welcome to my Portfolio! I'm a Business Intelligence with a background in economics, and hands-on experience in customer analytics, sentiment analysis, ETL/ELT, and dashboard reporting using tools like Python, SQL, and Power BI.
 
 During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in data management, and statistical analysis, which I believe will be valuable assets in my role as a data specialist.
 
