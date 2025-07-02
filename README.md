@@ -84,7 +84,7 @@ The analysis showed that content with niche themes received more positive reacti
 ## 📬 Contact
 
 - 📧 Email: *hannguyen.ntmh@gmail.com*  
-- 💼 LinkedIn: [linkedin.com/in/nguyen-thi-minh-huong](linkedin.com/in/nguyen-thi-minh-huong)
+- 💼 LinkedIn: [linkedin.com/in/nguyen-thi-minh-huong](https://www.linkedin.com/in/nguyen-thi-minh-huong/)
 
 ---
 
